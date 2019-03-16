@@ -1,0 +1,227 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin-top: 0;
+  padding-top: 100px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+  font-size: 1.2rem;
+  text-align: center;
+  width: 40%;
+  margin: 30px auto 60px;
+}
+
+hr {
+  border: none;
+  border-top: dotted 8px;
+  color: #e0ebe8;
+  width: 4%;
+  margin-bottom: 40px;
+}
+
+.nav {
+  text-align: right;
+  margin-right: 100px;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.link {
+  color: #66BFBF;
+  text-decoration: none;
+  padding: 30px;
+}
+
+.link:hover {
+  color: #007880;
+}
+
+.indian-girl {
+  border: groove 8px;
+  border-color: #66BFBF;
+  padding: 10px;
+  width: 250px;
+  height: 300px;
+  margin: 0 auto 50px;
+}
+
+.top-container {
+  background-color: #e0ebe8;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.footer {
+  color: white;
+  padding: 50px auto 10px;
+  margin-top: 30px;
+}
+
+.footer-link {
+  color: #309286;
+  display: inline;
+  margin: 50px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.button {
+  background: #11CDD4;
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 50;
+  padding: 10px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  bottom: 1px;
+  margin: 20px 50px 50px;
+}
+
+/*####################### second page ###############*/
+.top-container2 {
+  background-color: #e0ebe8;
+  width: 100%;
+  height: 900px;
+}
+
+.redhead {
+  border: groove 5px;
+  border-color: #66BFBF;
+  width: 200px;
+  height: 200px;
+  padding: 4px;
+  position: absolute;
+  top: 150px;
+  left: 150px;
+}
+
+.redhead:hover {
+  border-color: #0b8457;
+}
+
+.plaid {
+  border: groove 5px;
+  border-color: #66BFBF;
+  width: 200px;
+  height: 200px;
+  padding: 4px;
+  position: absolute;
+  top: 365px;
+  left: 363px;
+}
+
+.gigi {
+  border: groove 5px;
+  border-color: #66BFBF;
+  width: 200px;
+  height: 200px;
+  padding: 4px;
+  position: absolute;
+  top: 583px;
+  left: 580px;
+}
+
+.middle-container2 {
+  background-color: white;
+  height: 50px;
+  position: relative;
+}
+
+.h1 {
+  margin-bottom: 70px;
+  padding-top: 5px;
+}
+
+.h2-1 {
+  margin-bottom: 150px;
+  margin-right: 380px;
+  color: #66BFBF;
+  text-decoration: none;
+}
+
+.h2-1:hover {
+  color: #007880;
+}
+
+.h2-2 {
+  margin-bottom: 180px;
+  margin-top: 100px;
+  text-decoration: none;
+}
+
+.h2-2:hover {
+  color: #007880;
+}
+
+.h2-3 {
+  margin-left: 430px;
+  text-decoration: none;
+}
+
+.h2-3:hover {
+  color: #007880;
+}
+
+.link2 {
+  color: #66BFBF;
+  text-decoration: none;
+  padding-bottom: 50px;
+  margin-right: 390px;
+}
+
+/*#####################page 3 ################*/
+.body3 {
+  background-color: #e0ebe8;
+}
+
+.img1 {
+  border: groove 15px;
+  border-color: #66BFBF;
+  width: 500px;
+  height: 500px;
+  margin: 30px;
+}
+
+.img2 {
+  border: groove 15px;
+  border-color: #66BFBF;
+  width: 400px;
+  height: 500px;
+  margin: 30px;
+}
+
+.img3 {
+  border: groove 15px;
+  border-color: #66BFBF;
+  width: 700px;
+  height: 500px;
+  margin: 30px;
+}
